@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CO550_WineWebsite", "CO550_WineWebsite\CO550_WineWebsite.csproj", "{66570FED-B2F9-4C50-83DD-E8C675D17E4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66570FED-B2F9-4C50-83DD-E8C675D17E4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66570FED-B2F9-4C50-83DD-E8C675D17E4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66570FED-B2F9-4C50-83DD-E8C675D17E4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66570FED-B2F9-4C50-83DD-E8C675D17E4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87F47473-6D2F-4382-ADC6-C5BC26E8EA8D}
+	EndGlobalSection
+EndGlobal
